@@ -82,11 +82,13 @@ git checkout [branch-name]
 
 ![image](https://user-images.githubusercontent.com/48210621/194949211-b6b612b4-38ef-461e-b8e4-d1300d791730.png)
 
-11. git diff: As the name suggests, this command is used to display all the differences between the files until the changes have not yet been staged.
+11. git merge: It is used to merge a branch into the active one.
 
 ```
-git diff
+git merge [branch-name]
 ```
+
+![image](https://user-images.githubusercontent.com/48210621/194952509-a3220c55-7629-4525-94b4-07b108eb210e.png)
 
 12. git pull: It merges all the changes present in the remote repository to the local working directory.
 
@@ -94,17 +96,29 @@ git diff
 git pull
 ```
 
-13. git merge: It is used to merge a branch into the active one.
+![image](https://user-images.githubusercontent.com/48210621/194952658-0a883518-6499-47c6-8b62-b0d1358c05f8.png)
+
+13. git diff: As the name suggests, this command is used to display all the differences between the files until the changes have not yet been staged.
 
 ```
-git merge [branch-name]
+git diff
 ```
+
+![image](https://user-images.githubusercontent.com/48210621/194952803-338dd717-d954-452b-8770-ebcba1023ae1.png)
 
 14. git clone: It is used to copy a repository. If the repository lies on a remote server.
 
 ```
 git clone username@host:/path/to/repository
 ```
+
+
 15. git reset: It will reset the index and the working directory to the last git commit’s state.
+
+ ```
+ git reset --hard
+ ```
+
+![image](https://user-images.githubusercontent.com/48210621/194953049-52d0a26a-6772-4fb0-a727-535823a79c43.png)
 
 
