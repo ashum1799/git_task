@@ -5,11 +5,8 @@
 git config --global user.email "[emails]"
 ``` 
 
-<<<<<<< HEAD
-=======
 ![image](https://user-images.githubusercontent.com/48210621/194948032-e89877ff-0293-4878-8a0f-c172fec2629b.png)
 
->>>>>>> 583b3899c43f1c869c12538dec36b608999c1af3
 2. git init: It is used to start a new git repository. This is generally used at the beginning.
 
 ```
