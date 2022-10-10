@@ -119,5 +119,4 @@ git clone username@host:/path/to/repository
 
 ![image](https://user-images.githubusercontent.com/48210621/194953049-52d0a26a-6772-4fb0-a727-535823a79c43.png)
 
-hi
 
