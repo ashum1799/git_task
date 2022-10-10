@@ -109,6 +109,7 @@ git diff
 git clone username@host:/path/to/repository
 ```
 
+![image](https://user-images.githubusercontent.com/48210621/194953658-fe59f91b-1595-41f0-96e3-f782cd9b8ee6.png)
 
 15. git reset: It will reset the index and the working directory to the last git commit’s state.
 
