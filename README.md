@@ -107,4 +107,6 @@ git clone username@host:/path/to/repository
 ```
 15. git reset: It will reset the index and the working directory to the last git commit’s state.
 
-
+```
+git reset
+```
