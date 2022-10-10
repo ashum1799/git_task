@@ -85,7 +85,7 @@ git checkout [branch-name]
 git merge [branch-name]
 ```
 
-![image](https://user-images.githubusercontent.com/48210621/194952509-a3220c55-7629-4525-94b4-07b108eb210e.png)
+![image](https://user-images.githubusercontent.com/48210621/194955358-bb259c10-7a0d-47e0-9b05-a4debb7c0daf.png)
 
 12. git pull: It merges all the changes present in the remote repository to the local working directory.
 
