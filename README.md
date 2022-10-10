@@ -5,11 +5,8 @@
 git config --global user.email "[emails]"
 ``` 
 
-<<<<<<< HEAD
-=======
 ![image](https://user-images.githubusercontent.com/48210621/194948032-e89877ff-0293-4878-8a0f-c172fec2629b.png)
 
->>>>>>> 583b3899c43f1c869c12538dec36b608999c1af3
 2. git init: It is used to start a new git repository. This is generally used at the beginning.
 
 ```
@@ -88,26 +85,5 @@ git checkout [branch-name]
 git diff
 ```
 
-12. git pull: It merges all the changes present in the remote repository to the local working directory.
 
-```
-git pull
-```
-
-13. git merge: It is used to merge a branch into the active one.
-
-```
-git merge [branch-name]
-```
-
-14. git clone: It is used to copy a repository. If the repository lies on a remote server.
-
-```
-git clone username@host:/path/to/repository
-```
-15. git reset: It will reset the index and the working directory to the last git commit’s state.
-
-```
-git reset
-```
 
