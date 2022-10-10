@@ -5,9 +5,11 @@
 git config --global user.email "[emails]"
 ``` 
 
-
+<<<<<<< HEAD
+=======
 ![image](https://user-images.githubusercontent.com/48210621/194948032-e89877ff-0293-4878-8a0f-c172fec2629b.png)
 
+>>>>>>> 583b3899c43f1c869c12538dec36b608999c1af3
 2. git init: It is used to start a new git repository. This is generally used at the beginning.
 
 ```
@@ -80,11 +82,13 @@ git checkout [branch-name]
 
 ![image](https://user-images.githubusercontent.com/48210621/194949211-b6b612b4-38ef-461e-b8e4-d1300d791730.png)
 
-11. git diff: As the name suggests, this command is used to display all the differences between the files until the changes have not yet been staged.
+11. git merge: It is used to merge a branch into the active one.
 
 ```
-git diff
+git merge [branch-name]
 ```
+
+![image](https://user-images.githubusercontent.com/48210621/194952509-a3220c55-7629-4525-94b4-07b108eb210e.png)
 
 12. git pull: It merges all the changes present in the remote repository to the local working directory.
 
@@ -92,12 +96,13 @@ git diff
 git pull
 ```
 
-13. git merge: It is used to merge a branch into the active one.
+![image](https://user-images.githubusercontent.com/48210621/194952658-0a883518-6499-47c6-8b62-b0d1358c05f8.png)
+
+13. git diff: As the name suggests, this command is used to display all the differences between the files until the changes have not yet been staged.
 
 ```
-git merge [branch-name]
+git diff
 ```
 
-14. git clone: It is used to copy a repository. If the repository lies on a remote server.
-
+![image](https://user-images.githubusercontent.com/48210621/194952803-338dd717-d954-452b-8770-ebcba1023ae1.png)
 
