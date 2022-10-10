@@ -5,9 +5,6 @@
 git config --global user.email "[emails]"
 ``` 
 
-![image](https://user-images.githubusercontent.com/48210621/194948032-e89877ff-0293-4878-8a0f-c172fec2629b.png)
-
-
 2. git init: It is used to start a new git repository. This is generally used at the beginning.
 
 ```
@@ -103,4 +100,12 @@ git diff
 ```
 
 ![image](https://user-images.githubusercontent.com/48210621/194952803-338dd717-d954-452b-8770-ebcba1023ae1.png)
+
+14. git clone: It is used to copy a repository. If the repository lies on a remote server.
+
+```
+git clone username@host:/path/to/repository
+```
+15. git reset: It will reset the index and the working directory to the last git commit’s state.
+
 
