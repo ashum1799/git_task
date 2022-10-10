@@ -9,4 +9,30 @@
 
 >git init
 
+3. git add: It is used to add a file to the staging area. Instead of choosing a single file name, you can also choose to give all filenames with an '.'
 
+>git add .
+
+4. git commit –m: It is used to snapshot or record a file in its version history permanently.
+
+>git commit -m "[message]"
+
+5. git push origin [branch-name]: It used to puch the changes to the branch in the repository
+
+>git push origin [branch-name]
+
+6. git status: This is one of the most frequently used as this is used to list down all the files which are ready to be committed.
+
+>git status
+
+7. git branch: Git branch command is used to list down all the branches that are locally present in the repository.
+
+>git branch
+
+8. git branch [branch-name]: This is used to create a new branch.
+
+>git branch [branch-name]
+
+9. git checkout: It is helpful in switching from one branch to another.
+
+>git checkout [branch-name]
