@@ -45,6 +45,7 @@ git push origin [branch-name]
 git remote add origin <URL>
 ```
 
+![image](https://user-images.githubusercontent.com/48210621/194948900-fa664c7b-9abe-4162-9867-26faa6333d2c.png)
 
 7. git status: This is one of the most frequently used as this is used to list down all the files which are ready to be committed.
 
@@ -52,11 +53,15 @@ git remote add origin <URL>
 git status
 ```
 
+![image](https://user-images.githubusercontent.com/48210621/194948984-964e537f-4d80-4b90-9722-069c6a1c2256.png)
+
 8. git branch: Git branch command is used to list down all the branches that are locally present in the repository.
 
 ```
 git branch
 ```
+
+![image](https://user-images.githubusercontent.com/48210621/194949067-49591950-2572-4690-a97c-50edaf0bb3df.png)
 
 9. git branch [branch-name]: This is used to create a new branch.
 
@@ -64,11 +69,15 @@ git branch
 git branch [branch-name]
 ```
 
+![image](https://user-images.githubusercontent.com/48210621/194949111-d7720d4d-cfd7-441e-9c61-30088b7bd9e8.png)
+
 10. git checkout: It is helpful in switching from one branch to another.
 
 ```
 git checkout [branch-name]
 ```
+
+![image](https://user-images.githubusercontent.com/48210621/194949211-b6b612b4-38ef-461e-b8e4-d1300d791730.png)
 
 11. git diff: As the name suggests, this command is used to display all the differences between the files until the changes have not yet been staged.
 
