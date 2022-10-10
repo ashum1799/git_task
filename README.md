@@ -5,7 +5,7 @@
 git config --global user.email "[emails]"
 ``` 
 
-![image](image.png)
+![image](https://user-images.githubusercontent.com/48210621/194948032-e89877ff-0293-4878-8a0f-c172fec2629b.png)
 
 2. git init: It is used to start a new git repository. This is generally used at the beginning.
 
@@ -13,11 +13,15 @@ git config --global user.email "[emails]"
 git init
 ```
 
+![image](https://user-images.githubusercontent.com/48210621/194948121-4ae54836-e0ab-473d-b2d8-8a67066457a2.png)
+
 3. git add: It is used to add a file to the staging area. Instead of choosing a single file name, you can also choose to give all filenames with an '.'
 
 ```
 git add .
 ```
+
+![image](https://user-images.githubusercontent.com/48210621/194948183-5648a540-9242-49d6-983b-2b4918f40645.png)
 
 4. git commit –m: It is used to snapshot or record a file in its version history permanently.
 
@@ -25,17 +29,23 @@ git add .
 git commit -m "[message]"
 ```
 
+![image](https://user-images.githubusercontent.com/48210621/194948303-4e057f72-b031-42b0-b208-d969e714f94d.png)
+
 5. git push origin [branch-name]: It used to puch the changes to the branch in the repository
 
 ```
 git push origin [branch-name]
 ```
 
+![image](https://user-images.githubusercontent.com/48210621/194948368-ac70aa69-bbb9-4dba-b8df-5a06bb2eeb5f.png)
+
 6. git remote lets you view all remote repositories. The following command will list all connections along with their URLs:
 
 ```
 git remote add origin <URL>
 ```
+
+
 7. git status: This is one of the most frequently used as this is used to list down all the files which are ready to be committed.
 
 ```
